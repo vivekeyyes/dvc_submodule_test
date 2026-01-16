@@ -1,0 +1,4 @@
+[core]
+    remote = dvc_sm_test_remote
+['remote "dvc_sm_test_remote"']
+    url = D:\submodule_test\dvc_sm_remote
